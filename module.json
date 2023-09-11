@@ -1,15 +1,15 @@
 {
-  "name": "bitd-alternate-sheets",
-  "title": "Blades in the Dark Alternate Sheets",
+  "name": "scum-and-villainy-alternate-sheets",
+  "title": "Scum & Villainy Alternate Sheets",
   "description": "",
   "version": "0.0.1",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
-  "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "10",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
   "compatibility": {
-    "minimum": 10,
-    "verified": 10
+    "minimum": 11,
+    "verified": 11
   },
   "authors": [
     {
@@ -20,8 +20,8 @@
   ],
   "dependencies": [
     {
-      "name": "blades-in-the-dark",
-      "manifest": "https://raw.githubusercontent.com/megastruktur/foundryvtt-blades-in-the-dark/master/system.json",
+      "name": "scum-and-villainy",
+      "manifest": "https://raw.githubusercontent.com/drewg13/foundryvtt-scum-and-villainy/master/system.json",
       "type": "system"
     }
   ],
